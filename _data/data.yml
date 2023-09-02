@@ -57,12 +57,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Professional, Qualified Electrical/Electronic Engineer who has experience in MNCs nad living internationally. I
+        have worked in multi-lingual and multi-disciplinary teams to deliver customer solutions. Now seeking an
+        opportunity to bring innovative and creative thinking to deliver solutions and benefits to customers worldwide.
+        
 education:
     title: Education
     info:
@@ -172,31 +170,28 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: Technical Skills
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Research & Development
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+        tagline: "Standard Off-the-shelf & Custom Parts, Market Projections, Planning."
+        
+      - title: Project Management
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Project Management: Inter-departmental Liaison, Scheduling, Budgeting, Final Specification & Documentation."
 
-      - title: Tempo
+      - title: Testing, Calibration & Repair
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Production/Manufacturing, Maintenance"
 
-      - title: Atom
+      - title: Quality Control & Audit
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Internal & External"
 
-      - title: Delta
+      - title: RF/Audio/DC/Analogue/Temp & Humidity/Volumetric & Mass/Force/Pressure & Flow/High Voltage/High Power
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment Manufacturing"
 
 oss:
     title: OSS Contributions
