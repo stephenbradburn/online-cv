@@ -193,6 +193,31 @@ projects:
         link: "#"
         tagline: "Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment Manufacturing"
 
+projects:
+    title: Transferable Skills
+    intro: >
+    assignments:
+      - title: Problem-solving
+        link: "#hook"
+        tagline: "Adopting a flexible approach to solve problems on time and on-budget"
+        
+      - title: Team Management
+        link: "#"
+        tagline: "Technical Task to Project based, Personal, Performance & Development"
+
+      - title: Presentation
+        link: "#"
+        tagline: "Internal & External, one-to-one to large groups"
+
+      - title: Explaining & Training
+        link: "#"
+        tagline: "‘Train-The-Trainer’ Level"
+
+      - title: team to company-wide, from customers to suppliers to investors
+        link: "#"
+        tagline: ""
+
+
 oss:
     title: OSS Contributions
     intro: >
