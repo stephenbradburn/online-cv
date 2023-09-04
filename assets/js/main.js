@@ -15,7 +15,11 @@ jQuery(document).ready(function($) {
         });
 
     });
-   
-    
 
 });
+
+let italicText = document.QuerySelector(".project-title");
+if(italicText.textContent == "Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment
+               Manufacturing")
+    italicText.style.fontStyle = 'italic';
+}
