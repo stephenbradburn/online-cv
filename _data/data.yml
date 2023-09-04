@@ -33,34 +33,36 @@ experiences:
         time: September 2016 - Present
         company: Antenova Ltd., Taiwan
         details: |
-          Integrate standard part antennas and test customer’s devices, optimise performance and produce test reports. Working with customers to provide specific solutions for their requirements.With global customers present the company profile and/or provide project/integration support.
+          Integrate standard part antennas and test customer’s devices, optimise performance and produce test reports. 
+          Working with customers to provide specific solutions for their requirements.
+          With global customers present the company profile and/or provide project/integration support.
           Project Management for key accounts, liaising with the customer and engineers.
           Support Marketing for new product press releases and technical updates.
           Managing and training the Applications Engineering Team.
           Control of internal and external documentation for quality, language and technical accuracy.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Test Engineer
+        time: July 2015 — February 2016
+        company: Innovative Solutions In Space, Nederlands
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I was product responsible for all aspects of VHF and UHF Cubesat antenna systems, including on-assembly tuning and staff training.
+      
+      - role: Electrical/Electronic Engineer
+        time: May 2014 — May 2015
+        company: European Space Agency (ESTEC), Noordwijk (Nederlands)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Maintenance, calibration and repair of electronic Measurement Instrumentation, development of optoelectronic measurements methods for testing applications. Maintenance and calibration of in-house standards for precision measurements of AC voltage, DC voltage, capacitance, frequency, RF power and attenuation. Maintenance of the department&#39;s Quality Management system and of the accreditation to ISO 17025, ensuring QMS standards are maintained for the ISO 17025 accreditation (Humidity and Temperature, Resistance, Capacitance, DC voltages) and support of internal and external quality audits. I also performed integration and maintenance of equipment and documentation for the ESTEC test Centre and the ESTEC laboratories, performed electrical safety inspections and undertook the administrative requirements to ensure provision of calibration and repair services of electronic instruments.
 
+      - role: Project Contract Engineer
+        time: January 2014 — April 2014
+        company: Avire, United Kingdom
+        details: |
+          Testing prototypes and new products, writing test specifications and providing feedback to production
+          Nissan Technical Centre Europe (UK)
+        time: August 2013 — November 2013
+        company: Nissan Technical Centre Europe, United Kingdom
+        details: |
+          Formulation of test plans and assisting test technicians where necessary. Formal reporting of test results.
+          
 certifications:
       title: Certifications
       list:
