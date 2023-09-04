@@ -58,11 +58,80 @@ experiences:
         details: |
           Testing prototypes and new products, writing test specifications and providing feedback to production
           Nissan Technical Centre Europe (UK)
+
+      - role: Project Contract Engineer
         time: August 2013 — November 2013
         company: Nissan Technical Centre Europe, United Kingdom
         details: |
           Formulation of test plans and assisting test technicians where necessary. Formal reporting of test results.
-          
+      
+      - role: Project Contract Engineer
+        time: August 2012 — July 2013
+        company: BMW Group Plant Oxford, United Kingdom
+        details: |
+          Responsible for all aspects of calibration at plants Oxford and Swindon, including rolling out a new IT system, outsourcing the calibration of test equipment, conducting internal audits and assisting in external audits.
+        
+      - role: Project Contract Engineer
+        time: February 2012 — August 2012
+        company: COM DEV Europe, United Kingdom
+        details: |
+          Testing and tuning RF/microwave sub-assemblies. Processing results data in spreadsheets/MATLAB where appropriate.
+      
+       - role: Project Contract Engineer
+        time: August 2011 — February 2012
+        company: Bowman Energy Recovery Systems, United Kingdom
+        details: |
+          Diagnostics and documentation of activities associated with production test. Working on analogue/digital and power supply PCB assemblies - involving logic levels, high and low voltage and high power components.
+
+       - role: Project Contract Engineer
+        time: May 2011 — July 2011
+        company: Cobham Antenna Systems, United Kingdom
+        details: |
+          Working on day and night shift I was responsible for stage and final testing of aircraft collision avoidance antennas.
+
+      - role: Project Contract Engineer
+        time: March 2010 — March 2011
+        company: Absolute Calibration, United Kingdom
+        details: |
+          Measurement/Calibration of a wide range of test and bespoke MOD equipment.
+
+      - role: Project Contract Engineer
+        time: July 2009 — November 2009
+        company: Airbus Defence &amp; Space, United Kingdom
+        details: |
+          Working in a clean room environment, I was responsible for test and diagnostics of RF sub-assemblies, using Network Analysers, Spectrum Analysers, Oscilloscopes, Phase Noise Measurement Systems, Special To Type
+          Test Equipment in accordance with strict procedures, ensuring all documentation and databases (including
+          SAP) were kept up to date. Also assembling and commissioning test rigs
+
+      - role: Project Contract Engineer
+        time: January 2008 — December 2008
+        company: GlaxoSmithKline, United Kingdom
+        details: |
+          Calibration of thermometers, hygrometers, pressure calibrators, tachometers etc. Calibration lab and in-situ testing.
+
+      - role: Senior Test Technician (UKAS)
+        time: May 2005 — April 2007
+        company: Aeroflex Test Solutions, United Kingdom
+        details: |
+          As a Senior Test Technician I was responsible for all the technical aspects of measurement and reporting of RF power measurement.
+
+      - role: Production Test Engineer
+        time: February 2003 — July 2004
+        company: Cobham Antenna Systems, United Kingdom
+        details: |
+          Calibration, verification, final inspection and fault finding and repairing (to component level) of power meters and Bluetooth test sets.
+      
+     - role: Calibration Engineer
+        time: September 1995 — December 2002
+        company: Trescal, United Kingdom
+        details: |
+          Calibration, verification, final inspection and fault finding and repairing (to component level) of power meters and Bluetooth test sets.
+      
+
+      
+
+        
+
 certifications:
       title: Certifications
       list:
