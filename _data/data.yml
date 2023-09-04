@@ -25,6 +25,49 @@ career-profile:
       Professional, Qualified Electrical/Electronic Engineer who has experience in MNCs and living internationally. I have worked in multi-lingual and multi-disciplinary teams to deliver customer solutions. Now seeking an
       opportunity to bring innovative and creative thinking to deliver solutions and benefits to customers worldwide.
 
+projects:
+    title: Technical Skills
+    intro: >
+      
+    assignments:
+      - title: Research & Development
+        tagline: "Standard Off-the-shelf & Custom Parts, Market Projections, Planning"
+
+      - title: Project Managament
+        tagline: "Inter-departmental Liaison, Scheduling, Budgeting, Final Specification & Documentation"
+
+      - title: Testing, Calibration & Repair
+        tagline: "Production/Manufacturing, Maintenance"
+
+      - title: Atom
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: RF/Audio/DC/Analogue/Temp &amp; Humidity/Volumetric &amp; Mass/Force/Pressure &amp; Flow/High Voltage/High Power
+        tagline: ""
+
+      - title: Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment
+               Manufacturing
+
+oss:
+    title: Transferable Skills
+    intro: >
+
+    contributions:
+      - title: Problem-solving
+        tagline: "Adopting a flexible approach to solve problems on time and on-budget"
+
+      - title: Team Management
+        tagline: "Technical Task to Project based, Personal, Performance & Development"
+
+      - title: Presentation
+        tagline: "Internal &amp; External, one-to-one to large groups"
+      
+      - title: Explaining & Training
+        tagline: ‘Train-The-Trainer’ Level
+      
+      - title: Communication
+        tagline: From individual to team to company-wide, from customers to suppliers to investors
+        
 experiences:
     title: Work Experience
     info:
@@ -113,48 +156,6 @@ experiences:
         details: |
           Calibration, verification, final inspection and fault finding and repairing (to component level) of power meters and Bluetooth test sets.
 
-projects:
-    title: Technical Skills
-    intro: >
-      
-    assignments:
-      - title: Research & Development
-        tagline: "Standard Off-the-shelf & Custom Parts, Market Projections, Planning"
-
-      - title: Project Managament
-        tagline: "Inter-departmental Liaison, Scheduling, Budgeting, Final Specification & Documentation"
-
-      - title: Testing, Calibration & Repair
-        tagline: "Production/Manufacturing, Maintenance"
-
-      - title: Atom
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: RF/Audio/DC/Analogue/Temp &amp; Humidity/Volumetric &amp; Mass/Force/Pressure &amp; Flow/High Voltage/High Power
-        tagline: ""
-
-      - title: Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment
-               Manufacturing
-
-oss:
-    title: Transferable Skills
-    intro: >
-
-    contributions:
-      - title: Problem-solving
-        tagline: "Adopting a flexible approach to solve problems on time and on-budget"
-
-      - title: Team Management
-        tagline: "Technical Task to Project based, Personal, Performance & Development"
-
-      - title: Presentation
-        tagline: "Internal &amp; External, one-to-one to large groups"
-      
-      - title: Explaining & Training
-        tagline: ‘Train-The-Trainer’ Level
-      
-      - title: Communication
-        tagline: From individual to team to company-wide, from customers to suppliers to investors
       
 
 
