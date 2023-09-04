@@ -30,7 +30,7 @@ experiences:
     title: Work Experience
     info:
       - role: Field Applications Engineering Manager
-        time: September 2016 - Present
+        time: September 2016 — Present
         company: Antenova Ltd., Taiwan
         details: |
           Integrate standard part antennas and test customer’s devices, optimise performance and produce test reports. 
@@ -126,11 +126,6 @@ experiences:
         company: Trescal, United Kingdom
         details: |
           Calibration, verification, final inspection and fault finding and repairing (to component level) of power meters and Bluetooth test sets.
-      
-
-      
-
-        
 
 certifications:
       title: Certifications
