@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Stephen Bradburn
+    tagline: Electrical/Electronic Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,8 +18,7 @@ sidebar:
     timezone: Taipei
     citizenship: British
     linkedin: stephen-bradburn-9700951a
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+    pdf: https://drive.google.com/file/d/1q0MG5vZRMcvt1hUwABxU1a-gJV2_zBeR/view?usp=drive_link
 career-profile:
     title: Career Profile
     summary: |
