@@ -8,25 +8,52 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Stephen Bradburn
-    tagline: Qualified Electrical/Electronic Engineer
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sbradburn.tw@gmail.com
-    phone: +886 905 738 04
-    timezone: Taipei Time
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: Taipei
     citizenship: British
+    website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Snowboarding
+          link:
+
+        - item: Cooking
+          link:
 
 career-profile:
     title: Career Profile
     summary: |
-        Professional, Qualified Electrical/Electronic Engineer who has experience in MNCs nad living internationally. I
-        have worked in multi-lingual and multi-disciplinary teams to deliver customer solutions. Now seeking an
-        opportunity to bring innovative and creative thinking to deliver solutions and benefits to customers worldwide.
-        
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
@@ -54,103 +81,46 @@ education:
             - Bullet point
 
 experiences:
-    title: Work Experience
-
+    title: Experiences
     info:
-      - role: Field Applications Engineering Manager
-        time: September 2016 - Present
-        company: Antenova Ltd. (Taiwan)
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-             Integrate standard part antennas and test customer’s devices, optimise performance and produce test reports.
-            Working with customers to provide specific solutions for their requirements.
-            With global customers present the company profile and/or provide project/integration support.
-            Project Management for key accounts, liaising with the customer and engineers.
-            Support Marketing for new product press releases and technical updates.
-            Managing and training the Applications Engineering Team.
-            Control of internal and external documentation for quality, language and technical accuracy.
-      - role: Test Engineer
-        time: July 2015 - February 2016
-        company: Innovative Solutions In Space (Nederlands)
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          I was product responsible for all aspects of VHF and UHF Cubesat antenna systems, including on-assembly
-          tuning and staff training.
-      - role: Electrical/Electronic Engineer
-        time: May 2014 - May 2015
-        company: European Space Agency (ESTEC) – Noordwijk (Nederlands)
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
-            Maintenance, calibration and repair of electronic Measurement Instrumentation, development of optoelectronic
-            measurements methods for testing applications. Maintenance and calibration of in-house standards for precision
-            measurements of AC voltage, DC voltage, capacitance, frequency, RF power and attenuation. Maintenance of
-            the department&#39;s Quality Management system and of the accreditation to ISO 17025, ensuring QMS standards
-            are maintained for the ISO 17025 accreditation (Humidity and Temperature, Resistance, Capacitance, DC
-            voltages) and support of internal and external quality audits. I also performed integration and maintenance of
-            equipment and documentation for the ESTEC test Centre and the ESTEC laboratories, performed electrical
-            safety inspections and undertook the administrative requirements to ensure provision of calibration and repair
-            services of electronic instruments.
-       - role: Project Contract Engineer at various UK companies
-        time: January 2014 - April 2014
-        company: Avire (UK)
-        details: |
-            Testing prototypes and new products, writing test specifications and providing feedback to production
-            Nissan Technical Centre Europe (UK)
-        time: August 2013 - November 2013
-        company: Nissan Technical Centre Europe (UK)
-        details: |
-            Formulation of test plans and assisting test technicians where necessary. Formal reporting of test results.
-        time: August 2012 - July 2013
-        company: BMW Group Plant Oxford (UK)
-        details: |
-            Responsible for all aspects of calibration at plants Oxford and Swindon, including rolling out a new IT system,
-            outsourcing the calibration of test equipment, conducting internal audits and assisting in external audits.
-        time: February 2012 - August 2012
-        company: COM DEV Europe (UK)
-        details: |
-            Testing and tuning RF/microwave sub-assemblies. Processing results data in spreadsheets/MATLAB where
-            appropriate.
-        time: August 2011 - February 2012
-        company: Bowman Energy Recovery Systems (UK)
-        details: |
-            Diagnostics and documentation of activities associated with production test. Working on analogue/digital and
-            power supply PCB assemblies - involving logic levels, high and low voltage and high power components.
-        time: May 2011 - July 2011
-        company: Cobham Antenna Systems (UK)
-        details: |
-            Working on day and night shift I was responsible for stage and final testing of aircraft collision avoidance
-            antennas.
-        time: March 2010 to March 2011
-        company: Absolute Calibration (UK)
-        details: |
-            Measurement/Calibration of a wide range of test and bespoke MOD equipment.
-        time: July 2009 to November 2009
-        company: Airbus Defence &amp; Space (UK)
-        details: |
-            Working in a clean room environment, I was responsible for test and diagnostics of RF sub-assemblies, using
-            Network Analysers, Spectrum Analysers, Oscilloscopes, Phase Noise Measurement Systems, Special To Type
-            Test Equipment in accordance with strict procedures, ensuring all documentation and databases (including
-            SAP) were kept up to date. Also assembling and commissioning test rigs
-        time: January 2008 to December 2008
-        company: GlaxoSmithKline (UK)
-        details: |
-            Calibration of thermometers, hygrometers, pressure calibrators, tachometers etc. Calibration lab and in-situ
-            testing.
-    - role: Senior Test Technician (UKAS)
-        time: May 2005 to April 2007
-        company: Aeroflex Test Solutions (UK)
-        details: |
-           As a Senior Test Technician I was responsible for all the technical aspects of measurement and reporting of RF
-           power measurement.
-    - role: Production Test Engineer
-        time: February 2003 to July 2004
-        company: Anritsu European Measurement Division (UK)
-        details: |
-           Calibration, verification, final inspection and fault finding and repairing (to component level) of power meters and
-            Bluetooth test sets.
-    - role: Production Test Engineer
-        time: September 1995 to December 2002
-        company: Trescal (UK)
-        details: |
-           Calibrating, testing and repairing a vast range of test equipment.
-            
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
 certifications:
       title: Certifications
       list:
@@ -193,49 +163,94 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Technical Skills
+    title: Projects
     intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Research & Development
+      - title: Velocity
         link: "#hook"
-        tagline: "Standard Off-the-shelf & Custom Parts, Market Projections, Planning."
-        
-      - title: Project Management
-        link: "#"
-        tagline: "Project Management: Inter-departmental Liaison, Scheduling, Budgeting, Final Specification & Documentation."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Testing, Calibration & Repair
+      - title: DevStudio
         link: "#"
-        tagline: "Production/Manufacturing, Maintenance"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Quality Control & Audit
+      - title: Tempo
         link: "#"
-        tagline: "Internal & External"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: RF/Audio/DC/Analogue/Temp & Humidity/Volumetric & Mass/Force/Pressure & Flow/High Voltage/High Power
+      - title: Atom
         link: "#"
-        tagline: "Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment Manufacturing"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
     intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Problem-solving
-        link: "#hook"
-        tagline: "Adopting a flexible approach to solve problems on time and on-budget"
-        
-      - title: Team Management
+      - title: Tempo
         link: "#"
-        tagline: "Technical Task to Project based, Personal, Performance & Development"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Presentation
+      - title: Atom
         link: "#"
-        tagline: "Internal & External, one-to-one to large groups"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Explaining & Training
+      - title: Delta
         link: "#"
-        tagline: "‘Train-The-Trainer’ Level"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: team to company-wide, from customers to suppliers to investors
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
         link: "#"
-        tagline: ""
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
