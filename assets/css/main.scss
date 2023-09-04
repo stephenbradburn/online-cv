@@ -16,3 +16,8 @@ $sidebar-order: 2;
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
+.project-title[text="Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment
+               Manufacturing"]{
+  text-transform: italic;
+}
