@@ -39,8 +39,7 @@ projects:
       - title: Testing, Calibration & Repair
         tagline: "Production/Manufacturing, Maintenance"
 
-      - title: "RF/Audio/DC/Analogue/Temp &amp; Humidity/Volumetric &amp; Mass/Force/Pressure & Flow/High Voltage/High Power"
-        tagline: ""
+      - title: RF/Audio/DC/Analogue/Temp &amp; Humidity/Volumetric &amp; Mass/Force/Pressure & Flow/High Voltage/High Power
 
       - title: Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment
                Manufacturing
