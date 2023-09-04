@@ -12,6 +12,12 @@ html {
 body {
   margin: 0;
 }
+
+span.project-title:contains("Working in Aerospace, Avionics, Defence, Pharmaceutical, Automotive, Component and Equipment Manufacturing") {
+    font-style: italic;
+}
+
+
 article,
 aside,
 details,
